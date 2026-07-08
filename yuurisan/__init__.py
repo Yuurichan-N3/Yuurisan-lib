@@ -13,7 +13,7 @@ def banner(nama_bot):
     
     print(Fore.CYAN + Style.BRIGHT + ascii_art)
     print(Fore.MAGENTA + Style.BRIGHT + f"Welcome to Yuuri's {nama_bot}")
-    print(Fore.GREEN + Style.BRIGHT + "Ready to hack the world?")
+    print(Fore.GREEN + Style.BRIGHT + "Join Here : https://t.me/Y3YuYuYo")
     print(Fore.YELLOW + Style.BRIGHT + f"Current time: {datetime.now().strftime('%d-%m-%Y %H:%M:%S')}\n")
 
 def set_title(nama_bot):
